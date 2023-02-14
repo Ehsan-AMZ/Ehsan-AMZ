@@ -6,6 +6,8 @@
 <h1 align="center">Hi 👋, I'm Ehsan A. Mohammadzadeh</h1>
 <h3 align="center">I am a Ph.D. Candidate at Rotterdam School of Management, Erasmus University with research interests in Transportation Systems, Retail Operations, Marketing Analytics and Data Science. Currently, I am working on a project on Demand Management in Last-Mile Delivery Operations under the supervision of dr. Niels Agatz, dr. Luuk Veelenturf, and dr. Robert Rooderkerk.</h3>
 
+(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHFhOEd4ZDVhek8tRkZtR2dPTnRhUFRMUHFtQXxBQ3Jtc0tuU1p4aU9RNUxjaU1MWnJjN0tPeVZua3RaOEpmYWJsTUp4NWJ2azlpN0VrQzNydndQaDRHNVpQZlc3MkhfNVZQTFNoMFRXNXRseURQTHF3ZzJTZXA4RTMzNWZtWG9haU1kdmI4cUVlLXVxd2g4UklmUQ&q=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F1162077%2Fscreenshots%2F3848914%2Fprogrammer.gif&v=G-EGDH50hGE)")
+
 - 🔭 I’m currently working on [Demand Management in Last-Mile Service Delivery Operations](https://www.erim.eur.nl/people/ehsan-aghamohammadzadeh/)
 
 - 📫 How to reach me **Aghamohammadzadeh@rsm.nl**
